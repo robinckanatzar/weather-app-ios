@@ -1,0 +1,15 @@
+// Detail
+"detail_min_temp_title" = "Température Min.";
+"detail_max_temp_title" = "Température Max.";
+"detail_uv_index_title" = "Index UV";
+"detail_wind_title" = "Vent";
+"detail_temperature_celcius" = "%@ °C";
+"detail_wind_direction_and_speed" = "%@ / %@";
+
+// Home
+"home_temperature" = "%@ °C";
+
+// Settings
+"settings_title" = "Paramètres";
+"settings_ok_button" = "OK";
+"settings_cancel_button" = "ANNULER";

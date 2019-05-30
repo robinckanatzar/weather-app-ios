@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  weathr
+
+  Created by Allan Vialatte on 02/03/2016.
+  Copyright © 2016 Allan Vialatte. All rights reserved.
+*/
+
+"wr.content.label.temps.min" = "Température min.";
+"wr.content.label.temps.max" = "Température max.";
+"wr.content.label.wind" = "Vent";
+
+"wr.content.sign.degres" = "°";
+
+"wr.content.write.error" = "Erreur";
+"wr.content.write.error.connexion" = "Aucune connexion n'est disponible";
+"wr.content.write.ok" = "Ok";
+"wr.content.write.settings" = "Paramètres";
+"wr.content.write.city" = "Villes";
+"wr.content.write.days" = "Nombre de jours";

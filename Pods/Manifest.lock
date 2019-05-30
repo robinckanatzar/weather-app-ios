@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - Marshal (1.2.7)
+  - OAuthSwift (1.2.2)
+  - SideMenu (3.1.7)
+  - SwiftGen (5.2.1)
+  - SwiftyJSON (4.2.0)
+  - Swinject (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - AlamofireImage (~> 3.5)
+  - Marshal (~> 1.2.4)
+  - OAuthSwift (~> 1.2.0)
+  - SideMenu (~> 3.1.1)
+  - SwiftGen (~> 5.2.1)
+  - SwiftyJSON
+  - Swinject (~> 2.1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Marshal
+    - OAuthSwift
+    - SideMenu
+    - SwiftGen
+    - SwiftyJSON
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  Marshal: ef480864a6af10a63f67be7e55bb5d8fe67a16d9
+  OAuthSwift: 27b34fe80b76b67cd8f45571e0be2432bc9f6de1
+  SideMenu: 93aefac046e861875abe260d8ae3578acdd75427
+  SwiftGen: 444b4c467e512a4812b8a800d731643fd265139e
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  Swinject: afea49fd95f392b41171669f165842879c48fad6
+
+PODFILE CHECKSUM: 1e3c7d2e79903a9d25d50ee62c5d390a34a0b64f
+
+COCOAPODS: 1.5.3
