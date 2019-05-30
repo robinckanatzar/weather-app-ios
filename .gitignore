@@ -2,6 +2,12 @@
 *.apk
 *.ap_
 
+.DS_Store
+
+## Build generated
+build/
+DerivedData
+
 # Files for the ART/Dalvik VM
 *.dex
 
