@@ -5,7 +5,7 @@ This application is a simple Android application written in Java that uses the O
 <img src="forecast_detail.png" alt="drawing" width="200"/>
 
 ## App Store
-This app is available on the Apple App Store here: 
+This app is not currently available on the Apple App Store. The app was rejected in the Apple review process for lack of valuable content. 
 
 ## Configuration
 * Sign up for a free developer account at https://openweathermap.org/api
